@@ -13,6 +13,7 @@ public class myJava
   n1=n2;    
   n2=n3;    
  }  
+ System.out.println("the program is correct");
  
 	}
 	
