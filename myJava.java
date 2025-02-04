@@ -12,6 +12,7 @@ public class myJava
   System.out.print(" "+n3);    
   n1=n2;    
   n2=n3;    
+  system.out.println("printing  "+n);
  }  
  System.out.println("the program is correct");
  
